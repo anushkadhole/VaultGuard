@@ -14,12 +14,6 @@ go run main.go get
 go run main.go delete
 ```
 
-
-```markdown
-# 🛡️ VaultGuard
-
-VaultGuard is a secure credential vault and encryption utility built to protect sensitive user data. It simulates enterprise-level **digital identity protection** and **secure data workflows**, reflecting the core security principles used in **blockchain-based payment infrastructure**.
-
 ## 🔐 Core Features
 
 - 🔒 Encrypted vault to store user credentials
